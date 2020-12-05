@@ -24,6 +24,11 @@ public class Roles {
 	private WebElement UpdateRoleIcon;
 	public WebElement getUpdateRoleIcon() {
 		return UpdateRoleIcon;
+	
+	}
+	private void syso() {
+		// TODO Auto-generated method stub
+
 	}
 	
 
